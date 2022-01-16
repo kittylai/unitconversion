@@ -1,0 +1,17 @@
+* {
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+#container {
+   margin: auto;
+   padding: auto;
+   border: 0px solid red;
+   width: device-width;
+   max-width: 650px;
+   background-color: #2F3438;
+}
